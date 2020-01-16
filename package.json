@@ -1,0 +1,16 @@
+{
+  "name": "QA_Challenge_Possible",
+  "version": "1.0.0",
+  "description": "This is the resolution for the challenge proposed by Possible for a QA Engineer.",
+  "main": "index.js",
+  "repository": "https://github.com/willcoliveira/test_possible.git",
+  "author": "William Oliveira",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  }
+}

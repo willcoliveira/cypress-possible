@@ -1,0 +1,12 @@
+{   
+    "baseUrl": "https://recruitment.possible.cx",
+    "chromeWebSecurity": false,
+    "trashAssetsBeforeRuns": false,
+    "viewportWidth": 1200,
+    "viewportHeight": 960,
+    "integrationFolder": "cypress/integration/",
+    "numTestsKeptInMemory": 1,
+    "screenshotOnRunFailure": false,
+    "video": false,
+    "defaultCommandTimeout": 10000
+}
